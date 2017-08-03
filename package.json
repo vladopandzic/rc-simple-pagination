@@ -1,0 +1,39 @@
+{
+  "name": "rc-simple-pagination",
+  "version": "0.0.1",
+  "description": "React component for paginating",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha --compilers  js:babel-core/register  test/helpers/browser.js test/*.spec.jsx"
+  },
+  "directories": {
+    "example": "examples",
+    "test": "test"
+  },
+  "dependencies": {
+    "react": "^15.6.1",
+    "react-dom": "^15.6.1",
+    "typescript": "^2.4.2"
+  },
+  "devDependencies": {
+    "babel-core": "^6.25.0",
+    "babel-loader": "^7.1.1",
+    "babel-preset-es2015": "^6.24.1",
+    "babel-preset-react": "^6.24.1",
+    "babel-register": "^6.24.1",
+    "chai": "^4.1.0",
+    "chai-enzyme": "^0.8.0",
+    "css-loader": "^0.28.4",
+    "enzyme": "^2.9.1",
+    "jsdom": "^11.1.0",
+    "mocha": "^3.5.0",
+    "react-test-renderer": "^15.6.1",
+    "sass-loader": "^6.0.6",
+    "style-loader": "^0.18.2",
+    "ts-loader": "^2.3.2",
+    "ts-node": "^3.3.0",
+    "webpack": "^3.4.1"
+  },
+  "author": "Vlado Pandžić",
+  "license": "ISC"
+}
