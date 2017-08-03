@@ -1,6 +1,8 @@
 # rc-simple-pagination
 
-et started by
+<b>Demo:</b> <a href="https://vladop.github.io/rc-simple-pagination/examples/index.html">https://vladop.github.io/rc-simple-pagination/examples/index.html</a>
+
+Get started by
   <code>npm i rc-simple-pagination</code>
   
   <b>Javascript:</b>
