@@ -42,6 +42,6 @@ Get started by
 | ------------- |:--------------:| ----------------:| ------------------------------------------:| ---------:|
 | activePage    | number         | <i>no-default</i>| Current active page (state on parent component)              | <b>No</b> |
 | numOfPages    | number         | <i>no-default</i>| Total number of pages| <b>No</b> |
-| onPaginationNumberClicked  | Function({ newPage,eventName }) |           | Callback executed whenever times change    | <b>No</b> |
+| onPaginationNumberClicked  | Function({ newPage,eventName }) |           | Callback executed whenever some page (or prev,next buttons) is selected     | <b>No</b> |
 | nextLinkTitle  | string |   Next       | Localized text for next button        | <b>No</b> |
 | prevLinkTitle  | string |   Prev       | Localized text for prev button        | <b>No</b> |
